@@ -45,6 +45,7 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 include(GNUInstallDirs)
+include("cmake/qt_deploy.cmake")
 
 if(PDF4QT_BUILD_ONLY_CORE_LIBRARY)
     find_package(Qt6 REQUIRED COMPONENTS Core Gui Svg Xml)
@@ -187,73 +188,14 @@ if(NOT PDF4QT_BUILD_ONLY_CORE_LIBRARY)
 endif()
 
 if(PDF4QT_INSTALL_DEPENDENCIES AND NOT PDF4QT_BUILD_ONLY_CORE_LIBRARY)
-    install(DIRECTORY ${VCPKG_INSTALLED_DIR}/${VCPKG_TARGET_TRIPLET}/bin/
+    install(DIRECTORY ${CMAKE_BINARY_DIR}/${PDF4QT_INSTALL_LIB_DIR}/
         RUNTIME DESTINATION ${PDF4QT_INSTALL_LIB_DIR}/
         FILES_MATCHING
         PATTERN "*.dll"
         PATTERN "*.so"
         PATTERN "*.dylib"
+        PATTERN "*.pdb"
     )
-
-    if("${PDF4QT_QT_ROOT}" STREQUAL "")
-        message(WARNING "Set variable PDF4QT_QT_ROOT to Qt6 root directory")
-    endif()
-
-    if(PDF4QT_INSTALL_QT_DEPENDENCIES)
-        install(DIRECTORY ${PDF4QT_QT_ROOT}/bin/
-            RUNTIME DESTINATION ${PDF4QT_INSTALL_LIB_DIR}/
-            FILES_MATCHING
-            REGEX "(Qt6Core|Qt6Gui|Qt6PrintSupport|Qt6Svg|Qt6TextToSpeech|Qt6Widgets|Qt6Xml|Qt6Multimedia|Qt6Network)\\..*"
-            PATTERN "Debug" EXCLUDE
-            PATTERN "*.pdb" EXCLUDE
-        )
-
-        install(DIRECTORY ${PDF4QT_QT_ROOT}/plugins/platforms/
-            RUNTIME DESTINATION ${PDF4QT_INSTALL_LIB_DIR}/platforms/
-            FILES_MATCHING
-            PATTERN "qwindows.dll"
-            PATTERN "*.so"
-            PATTERN "*.dylib"
-            PATTERN "*.pdb" EXCLUDE
-        )
-
-        install(DIRECTORY ${PDF4QT_QT_ROOT}/plugins/iconengines/
-            RUNTIME DESTINATION ${PDF4QT_INSTALL_LIB_DIR}/iconengines/
-            FILES_MATCHING
-            REGEX "qsvgicon\\..*"
-            PATTERN "*.pdb" EXCLUDE
-        )
-
-        install(DIRECTORY ${PDF4QT_QT_ROOT}/plugins/imageformats/
-            RUNTIME DESTINATION ${PDF4QT_INSTALL_LIB_DIR}/imageformats/
-            FILES_MATCHING
-            PATTERN "*.dll"
-            PATTERN "*.so"
-            PATTERN "*.dylib"
-            REGEX "d\\..*" EXCLUDE
-            PATTERN "*.pdb" EXCLUDE
-        )
-
-        install(DIRECTORY ${PDF4QT_QT_ROOT}/plugins/styles/
-            RUNTIME DESTINATION ${PDF4QT_INSTALL_LIB_DIR}/styles/
-            FILES_MATCHING
-            PATTERN "*.dll"
-            PATTERN "*.so"
-            PATTERN "*.dylib"
-            REGEX "d\\..*" EXCLUDE
-            PATTERN "*.pdb" EXCLUDE
-        )
-
-        install(DIRECTORY ${PDF4QT_QT_ROOT}/plugins/texttospeech/
-            RUNTIME DESTINATION ${PDF4QT_INSTALL_LIB_DIR}/texttospeech/
-            FILES_MATCHING
-            PATTERN "*.dll"
-            PATTERN "*.so"
-            PATTERN "*.dylib"
-            REGEX "d\\..*" EXCLUDE
-            PATTERN "*.pdb" EXCLUDE
-        )
-    endif()
 
     if(WIN32 AND MSVC AND PDF4QT_INSTALL_MSVC_REDISTRIBUTABLE)
         if(DEFINED ENV{MSVC_REDISTRIBUTABLES_PATH})

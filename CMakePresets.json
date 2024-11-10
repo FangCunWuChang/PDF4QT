@@ -1,0 +1,58 @@
+﻿{
+  "version": 5,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 15,
+    "patch": 0
+  },
+  "configurePresets": [
+    {
+      "name": "Windows Debug x64",
+      "displayName": "Windows Debug x64",
+      "description": "Windows Debug x64",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/windows-debug-x64",
+      "installDir": "${sourceDir}/install/windows-debug-x64",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug",
+        "CMAKE_TOOLCHAIN_FILE": "${sourceDir}/vcpkg-bundled/scripts/buildsystems/vcpkg.cmake",
+        "VCPKG_TARGET_TRIPLET": "x64-windows",
+        "CMAKE_C_COMPILER": "cl",
+        "CMAKE_CXX_COMPILER": "cl",
+        "CMAKE_RC_COMPILER": "rc"
+      }
+    },
+    {
+      "name": "Windows Release x64",
+      "displayName": "Windows Release x64",
+      "description": "Windows Release x64",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/windows-release-x64",
+      "installDir": "${sourceDir}/install/windows-release-x64",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release",
+        "CMAKE_TOOLCHAIN_FILE": "${sourceDir}/vcpkg-bundled/scripts/buildsystems/vcpkg.cmake",
+        "VCPKG_TARGET_TRIPLET": "x64-windows",
+        "CMAKE_C_COMPILER": "cl",
+        "CMAKE_CXX_COMPILER": "cl",
+        "CMAKE_RC_COMPILER": "rc"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "Windows Debug x64",
+      "displayName": "Windows Debug x64",
+      "description": "Windows Debug x64",
+      "configurePreset": "Windows Debug x64",
+      "jobs": 16
+    },
+    {
+      "name": "Windows Release x64",
+      "displayName": "Windows Release x64",
+      "description": "Windows Release x64",
+      "configurePreset": "Windows Release x64",
+      "jobs": 16
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+[submodule "vcpkg-bundled"]
+	path = vcpkg-bundled
+	url = https://github.com/microsoft/vcpkg.git

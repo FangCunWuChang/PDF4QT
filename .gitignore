@@ -1,3 +1,12 @@
 *.pro.user
 *.qbs.user
 *.txt.user
+
+.vs/**
+.idea/**
+
+vcpkg_installed/**
+
+[Oo]ut/**
+build/**
+install/**

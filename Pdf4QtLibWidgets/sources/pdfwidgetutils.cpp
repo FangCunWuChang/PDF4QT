@@ -176,7 +176,7 @@ void PDFWidgetUtils::style(QWidget* widget)
 
 void PDFWidgetUtils::setDarkTheme(bool isDarkTheme)
 {
-    QApplication::styleHints()->setColorScheme(isDarkTheme ? Qt::ColorScheme::Dark : Qt::ColorScheme::Light);
+    //QApplication::styleHints()->setColorScheme(isDarkTheme ? Qt::ColorScheme::Dark : Qt::ColorScheme::Light);
 }
 
 bool PDFWidgetUtils::isDarkTheme()
