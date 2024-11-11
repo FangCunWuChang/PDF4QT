@@ -1,0 +1,116 @@
+﻿name: Upload Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  call-build:
+    uses: ./.github/workflows/build.yml
+
+    permissions:
+      id-token: write
+      contents: read
+      attestations: write
+
+  create-release:
+    name: Create Release
+    runs-on: windows-latest
+    
+    outputs:
+      upload_url: ${{steps.create_release.outputs.upload_url}}
+    
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Release Notes
+        id: notes
+        uses: RedCrafter07/release-notes-action@v1.0.0
+        with:
+          tag-name: ${{github.ref}}
+          token: ${{secrets.GITHUB_TOKEN}}
+          branch: 'master'
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+          tag_name: ${{github.ref}}
+          release_name: PDF4QT ${{github.ref}}
+          body: ${{steps.notes.outputs.release-notes}}
+          draft: false
+          prerelease: ${{endsWith(github.ref, 'beta')}}
+    
+  release:
+    name: Upload Release
+    needs: [call-build, create-release]
+    runs-on: windows-latest
+    
+    strategy:
+      fail-fast: false
+      matrix:
+        build-type: [Debug, Release]
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Get Short SHA
+        uses: benjlevesque/short-sha@v3.0
+        id: short-sha
+        with:
+          length: 7
+
+      - name: Download Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: pdf4qt-${{runner.os}}-${{runner.arch}}-${{matrix.build-type}}-${{steps.short-sha.outputs.sha}}
+
+      - name: Package
+        shell: pwsh
+        working-directory: ${{github.workspace}}
+        run: Compress-Archive -Path .\* -DestinationPath package.zip
+      
+      - name: Calculate MD5
+        shell: pwsh
+        working-directory: ${{github.workspace}}
+        run: |
+          $filePath = "package.zip"
+          $md5 = Get-FileHash $filePath -Algorithm MD5 | Select-Object -ExpandProperty Hash
+          $md5FilePath = "${filePath}.md5"
+          $md5 | Out-File -FilePath $md5FilePath -Encoding utf8
+          Write-Host "MD5 $md5 saved to $md5FilePath"
+
+      - name: Set Package Name
+        id: package-name
+        working-directory: ${{github.workspace}}
+        shell: pwsh
+        run: |
+          $result = "pdf4qt-${{runner.os}}-${{runner.arch}}-${{matrix.build-type}}-${{github.ref_name}}.zip"
+          $outputString = "asset_name=$result"
+          $outputString | Out-File -FilePath $env:GITHUB_OUTPUT -Append
+          Write-Host "Package asset name: $result"
+
+      - name: Upload
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+          upload_url: ${{needs.create-release.outputs.upload_url}}
+          asset_path: ./package.zip
+          asset_name: ${{steps.package-name.outputs.asset_name}}
+          asset_content_type: application/zip
+
+      - name: Upload MD5
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+          upload_url: ${{needs.create-release.outputs.upload_url}}
+          asset_path: ./package.zip.md5
+          asset_name: ${{steps.package-name.outputs.asset_name}}.md5
+          asset_content_type: text/plain
