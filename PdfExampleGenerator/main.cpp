@@ -16,12 +16,25 @@
 //    along with PDF4QT.  If not, see <https://www.gnu.org/licenses/>.
 
 #include <QApplication>
+#include <QTranslator>
 
 #include "pdfexamplesgenerator.h"
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
+
+    QTranslator appTranslator, qtTranslator;
+    QString transPath = QApplication::applicationDirPath() + "/translations";
+    if (appTranslator.load(QLocale(), "PDF4QT", "_", transPath))
+    {
+        QApplication::installTranslator(&appTranslator);
+    }
+    if (qtTranslator.load(QLocale(), "qt", "_", transPath))
+    {
+        QApplication::installTranslator(&qtTranslator);
+    }
+
     PDFExamplesGenerator::generateAnnotationsExample();
     PDFExamplesGenerator::generatePageBoxesExample();
     PDFExamplesGenerator::generateOutlineExample();

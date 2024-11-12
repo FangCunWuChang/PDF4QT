@@ -19,12 +19,25 @@
 
 #include <QHash>
 #include <QApplication>
+#include <QTranslator>
 
 int main(int argc, char *argv[])
 {
     QHashSeed::globalSeed().setDeterministicGlobalSeed();
 
     QApplication a(argc, argv);
+
+    QTranslator appTranslator, qtTranslator;
+    QString transPath = QApplication::applicationDirPath() + "/translations";
+    if (appTranslator.load(QLocale(), "PDF4QT", "_", transPath))
+    {
+        QApplication::installTranslator(&appTranslator);
+    }
+    if (qtTranslator.load(QLocale(), "qt", "_", transPath))
+    {
+        QApplication::installTranslator(&qtTranslator);
+    }
+
     GeneratorMainWindow w;
     w.show();
     return a.exec();

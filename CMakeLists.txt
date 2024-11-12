@@ -15,7 +15,7 @@
 #    You should have received a copy of the GNU Lesser General Public License
 #    along with PDF4QT.  If not, see <https://www.gnu.org/licenses/>.
 
-cmake_minimum_required(VERSION 3.16)
+cmake_minimum_required(VERSION 3.19)
 
 set(PDF4QT_VERSION 1.4.0.0)
 message(STATUS "Build type - CMAKE_BUILD_TYPE: ${CMAKE_BUILD_TYPE}")
@@ -48,12 +48,12 @@ include(GNUInstallDirs)
 include("cmake/qt_deploy.cmake")
 
 if(PDF4QT_BUILD_ONLY_CORE_LIBRARY)
-    find_package(Qt6 REQUIRED COMPONENTS Core Gui Svg Xml)
+    find_package(Qt6 REQUIRED COMPONENTS Core Gui Svg Xml LinguistTools)
 else()
-    find_package(Qt6 REQUIRED COMPONENTS Core Gui Widgets Svg Xml PrintSupport TextToSpeech Test)
+    find_package(Qt6 REQUIRED COMPONENTS Core Gui Widgets Svg Xml PrintSupport TextToSpeech Test LinguistTools)
 endif()
 
-qt_standard_project_setup()
+qt_standard_project_setup(I18N_TRANSLATED_LANGUAGES zh_CN)
 
 find_package(OpenSSL REQUIRED)
 find_package(lcms REQUIRED)
@@ -146,6 +146,30 @@ message("CMAKE_TOOLCHAIN_FILE = " ${CMAKE_TOOLCHAIN_FILE})
 
 configure_file(version.txt.in version.txt)
 
+set(QT_TRANSLATE_DIR "${CMAKE_SOURCE_DIR}/translations")
+file(GLOB TS_FILES CONFIGURE_DEPENDS "${QT_TRANSLATE_DIR}/*.ts")
+message(STATUS "Translation files: ${TS_FILES}")
+foreach(item ${TS_FILES})
+    set_source_files_properties(${item}
+        PROPERTIES OUTPUT_LOCATION "${CMAKE_BINARY_DIR}/${PDF4QT_INSTALL_BIN_DIR}/translations")
+endforeach()
+
+include("cmake/get_all_targets.cmake")
+include("cmake/check_target_link_qt.cmake")
+get_all_targets(TARGET_LIST ${CMAKE_SOURCE_DIR})
+set(QT_TARGETS_LIST)
+foreach(target ${TARGET_LIST})
+    check_target_link_qt(${target})
+    if(${target}_links_qt)
+        list(APPEND QT_TARGETS_LIST ${target})
+    endif()
+endforeach()
+qt_add_translations(
+    TARGETS ${QT_TARGETS_LIST}
+    TS_FILE_DIR "${QT_TRANSLATE_DIR}"
+    IMMEDIATE_CALL
+)
+
 if(NOT PDF4QT_BUILD_ONLY_CORE_LIBRARY)
     if(WIN32)
         install(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/Desktop/44x44/
@@ -195,6 +219,12 @@ if(PDF4QT_INSTALL_DEPENDENCIES AND NOT PDF4QT_BUILD_ONLY_CORE_LIBRARY)
         PATTERN "*.so"
         PATTERN "*.dylib"
         PATTERN "*.pdb"
+    )
+
+    install(DIRECTORY ${CMAKE_BINARY_DIR}/${PDF4QT_INSTALL_BIN_DIR}/translations
+        RUNTIME DESTINATION ${PDF4QT_INSTALL_BIN_DIR}/
+        FILES_MATCHING
+        PATTERN "*.qm"
     )
 
     if(WIN32 AND MSVC AND PDF4QT_INSTALL_MSVC_REDISTRIBUTABLE)

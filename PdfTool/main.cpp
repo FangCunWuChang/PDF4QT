@@ -20,10 +20,23 @@
 
 #include <QGuiApplication>
 #include <QCommandLineParser>
+#include <QTranslator>
 
 int main(int argc, char *argv[])
 {
     QGuiApplication a(argc, argv);
+
+    QTranslator appTranslator, qtTranslator;
+    QString transPath = QCoreApplication::applicationDirPath() + "/translations";
+    if (appTranslator.load(QLocale(), "PDF4QT", "_", transPath))
+    {
+        QCoreApplication::installTranslator(&appTranslator);
+    }
+    if (qtTranslator.load(QLocale(), "qt", "_", transPath))
+    {
+        QCoreApplication::installTranslator(&qtTranslator);
+    }
+
     QCoreApplication::setOrganizationName("MelkaJ");
     QCoreApplication::setApplicationName("PdfTool");
     QCoreApplication::setApplicationVersion(pdf::PDF_LIBRARY_VERSION);

@@ -22,6 +22,7 @@
 
 #include <QApplication>
 #include <QCommandLineParser>
+#include <QTranslator>
 
 #include "pdfdbgheap.h"
 
@@ -33,6 +34,17 @@ int main(int argc, char *argv[])
 
     QApplication::setAttribute(Qt::AA_CompressHighFrequencyEvents, true);
     QApplication application(argc, argv);
+
+    QTranslator appTranslator, qtTranslator;
+    QString transPath = QApplication::applicationDirPath() + "/translations";
+    if (appTranslator.load(QLocale(), "PDF4QT", "_", transPath))
+    {
+        QApplication::installTranslator(&appTranslator);
+    }
+    if (qtTranslator.load(QLocale(), "qt", "_", transPath))
+    {
+        QApplication::installTranslator(&qtTranslator);
+    }
 
     QCoreApplication::setOrganizationName("MelkaJ");
     QCoreApplication::setApplicationName("PDF4QT Editor");

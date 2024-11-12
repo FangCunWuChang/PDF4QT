@@ -34,7 +34,6 @@ function(qt_deploy_target target_name)
                 "${WINDEPLOYQT_CMD}" "$<TARGET_FILE:${target_name}>"
                 --verbose 0
                 --no-quick-import
-                --no-translations
                 --force
                 ${WINDEPLOYQT_TYPE_ARGS}
         )
