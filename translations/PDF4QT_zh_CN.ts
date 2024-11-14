@@ -641,7 +641,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="224"/>
         <source>Insert &amp;PDF</source>
-        <translation>&amp;插入PDF</translation>
+        <translation>插入&amp;PDF</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="227"/>
@@ -666,7 +666,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="251"/>
         <source>Insert &amp;Empty Page</source>
-        <translation>&amp;插入空白页</translation>
+        <translation>插入&amp;空白页</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="254"/>
@@ -736,7 +736,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="335"/>
         <source>Select &amp;Even</source>
-        <translation>&amp;选择偶数页</translation>
+        <translation>选择&amp;偶数页</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="338"/>
@@ -746,7 +746,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="347"/>
         <source>Select &amp;Odd</source>
-        <translation>&amp;选择奇数页</translation>
+        <translation>选择&amp;奇数页</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="350"/>
@@ -756,7 +756,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="359"/>
         <source>Select &amp;Portrait</source>
-        <translation>&amp;选择纵向页</translation>
+        <translation>选择&amp;纵向页</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="362"/>
@@ -766,7 +766,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="371"/>
         <source>Select &amp;Landscape</source>
-        <translation>&amp;选择横向页</translation>
+        <translation>选择&amp;横向页</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="374"/>
@@ -776,7 +776,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="383"/>
         <source>Rotate &amp;Right</source>
-        <translation>&amp;向右旋转</translation>
+        <translation>向&amp;右旋转</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="386"/>
@@ -786,7 +786,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="395"/>
         <source>Rotate &amp;Left</source>
-        <translation>&amp;向左旋转</translation>
+        <translation>向&amp;左旋转</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="398"/>
@@ -856,7 +856,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="476"/>
         <source>Separate to Multiple Documents (&amp;Grouped)...</source>
-        <translation>&amp;分割为多个文档（分组）...</translation>
+        <translation>分割为多个文档（分&amp;组）...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="479"/>
@@ -891,27 +891,27 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="524"/>
         <source>Regroup by &amp;Even/Odd Pages</source>
-        <translation>&amp;根据奇偶数页重新分组</translation>
+        <translation>根据&amp;奇偶数页重新分组</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="533"/>
         <source>Regroup by &amp;Page Pairs</source>
-        <translation>&amp;根据页面对重新分组</translation>
+        <translation>根据&amp;页面对重新分组</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="542"/>
         <source>Regroup by &amp;Outline</source>
-        <translation>&amp;根据大纲重新分组</translation>
+        <translation>根据&amp;大纲重新分组</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="551"/>
         <source>Regroup by &amp;Alternating Pages</source>
-        <translation>&amp;根据交错页面重新分组</translation>
+        <translation>根据&amp;交错页面重新分组</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="560"/>
         <source>Regroup by Alternating Pages (&amp;Reversed Order)</source>
-        <translation>&amp;根据交错页面重新分组（倒序）</translation>
+        <translation>根据交&amp;错页面重新分组（倒序）</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="569"/>
@@ -947,7 +947,7 @@
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="607"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="372"/>
         <source>Become a &amp;Sponsor</source>
-        <translation>&amp;成为捐赠者</translation>
+        <translation>成为&amp;捐赠者</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="55"/>
@@ -963,12 +963,12 @@
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="129"/>
         <source>Open &amp;Left...</source>
-        <translation>&amp;打开左侧...</translation>
+        <translation>打开&amp;左侧...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="138"/>
         <source>Open &amp;Right...</source>
-        <translation>&amp;打开右侧...</translation>
+        <translation>打开&amp;右侧...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="159"/>
@@ -998,52 +998,52 @@
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="195"/>
         <source>Create Compare &amp;Report...</source>
-        <translation>&amp;创建比较报告...</translation>
+        <translation>创建比较&amp;报告...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="207"/>
         <source>Filter &amp;Text</source>
-        <translation>&amp;过滤文本</translation>
+        <translation>过滤&amp;文本</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="219"/>
         <source>Filter &amp;Vector Graphics</source>
-        <translation>&amp;过滤矢量图</translation>
+        <translation>过滤&amp;矢量图</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="231"/>
         <source>Filter &amp;Images</source>
-        <translation>&amp;过滤图像</translation>
+        <translation>过滤&amp;图像</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="243"/>
         <source>Filter &amp;Shading</source>
-        <translation>&amp;过滤底纹</translation>
+        <translation>过滤&amp;底纹</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="255"/>
         <source>Filter &amp;Page Movement</source>
-        <translation>&amp;过滤页面移动</translation>
+        <translation>过滤&amp;页面移动</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="267"/>
         <source>View &amp;Differences</source>
-        <translation>&amp;查看差异</translation>
+        <translation>查看&amp;差异</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="279"/>
         <source>View &amp;Left</source>
-        <translation>&amp;查看左侧</translation>
+        <translation>查看&amp;左侧</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="291"/>
         <source>View &amp;Right</source>
-        <translation>&amp;查看右侧</translation>
+        <translation>查看&amp;右侧</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="303"/>
         <source>View &amp;Overlay</source>
-        <translation>&amp;查看预览</translation>
+        <translation>查看&amp;预览</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="315"/>
@@ -1058,22 +1058,22 @@
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="327"/>
         <source>Save Differences to &amp;XML...</source>
-        <translation>&amp;保存差异为XML...</translation>
+        <translation>保存差异为&amp;XML...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="339"/>
         <source>S&amp;ynchronize View with Differences</source>
-        <translation>&amp;将视图与差异同步</translation>
+        <translation>将视图与差异&amp;同步</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="351"/>
         <source>Display &amp;Differences</source>
-        <translation>&amp;显示差异</translation>
+        <translation>显示&amp;差异</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="363"/>
         <source>Display &amp;Markers</source>
-        <translation>&amp;显示标记</translation>
+        <translation>显示&amp;标记</translation>
     </message>
 </context>
 <context>
@@ -1856,7 +1856,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="51"/>
         <source>Book&amp;mark Settings</source>
-        <translation>&amp;书签设置</translation>
+        <translation>书&amp;签设置</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="71"/>
@@ -1866,7 +1866,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="75"/>
         <source>Page La&amp;yout</source>
-        <translation>&amp;页面布局</translation>
+        <translation>页面&amp;布局</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="86"/>
@@ -1918,7 +1918,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="237"/>
         <source>&amp;Open...</source>
-        <translation>&amp;打开...</translation>
+        <translation>打&amp;开...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="246"/>
@@ -1963,7 +1963,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="291"/>
         <source>Two &amp;Pages</source>
-        <translation>&amp;双页</translation>
+        <translation>双&amp;页</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="294"/>
@@ -2068,7 +2068,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="398"/>
         <source>Reset to &amp;Factory Settings</source>
-        <translation>&amp;恢复默认设置</translation>
+        <translation>恢复&amp;默认设置</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="407"/>
@@ -2088,12 +2088,12 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="434"/>
         <source>Fit &amp;Page</source>
-        <translation>&amp;适应页面</translation>
+        <translation>适应&amp;页面</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="443"/>
         <source>Fit &amp;Width</source>
-        <translation>&amp;适应宽度</translation>
+        <translation>适应&amp;宽度</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="446"/>
@@ -2103,7 +2103,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="455"/>
         <source>&amp;Fit Height</source>
-        <translation>&amp;适应高度</translation>
+        <translation>适应&amp;高度</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="458"/>
@@ -2118,17 +2118,17 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="476"/>
         <source>Send by &amp;E-Mail...</source>
-        <translation>&amp;通过邮件发送...</translation>
+        <translation>通过&amp;邮件发送...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="484"/>
         <source>Show Text &amp;Blocks</source>
-        <translation>&amp;显示文本块</translation>
+        <translation>显示文本&amp;块</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="492"/>
         <source>Show Text &amp;Lines</source>
-        <translation>&amp;显示文本行</translation>
+        <translation>显示文本&amp;行</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="501"/>
@@ -2138,22 +2138,22 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="510"/>
         <source>Fin&amp;d Previous</source>
-        <translation>&amp;查找上一个</translation>
+        <translation>查找&amp;上一个</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="519"/>
         <source>Fi&amp;nd Next</source>
-        <translation>&amp;查找下一个</translation>
+        <translation>查找&amp;下一个</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="531"/>
         <source>Select te&amp;xt</source>
-        <translation>&amp;选取文本</translation>
+        <translation>选取&amp;文本</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="543"/>
         <source>Select &amp;table</source>
-        <translation>&amp;选取表格</translation>
+        <translation>选取&amp;表格</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="552"/>
@@ -2173,47 +2173,47 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="582"/>
         <source>Color | &amp;Inverted</source>
-        <translation>&amp;颜色 | 反转</translation>
+        <translation>颜色 | &amp;反转</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="594"/>
         <source>Color | &amp;Grayscale</source>
-        <translation>&amp;颜色 | 灰度</translation>
+        <translation>颜色 | &amp;灰度</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="606"/>
         <source>Color | &amp;High Contrast</source>
-        <translation>&amp;颜色 | 高对比度</translation>
+        <translation>颜色 | 高&amp;对比度</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="618"/>
         <source>Color | &amp;Monochromatic</source>
-        <translation>&amp;颜色 | 单色</translation>
+        <translation>颜色 | &amp;单色</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="630"/>
         <source>Color | &amp;Custom</source>
-        <translation>&amp;颜色 | 自定义</translation>
+        <translation>颜色 | &amp;自定义</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="639"/>
         <source>Rotate &amp;Right</source>
-        <translation>&amp;向右旋转</translation>
+        <translation>向&amp;右旋转</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="648"/>
         <source>Rotate &amp;Left</source>
-        <translation>&amp;向左旋转</translation>
+        <translation>向&amp;左旋转</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="657"/>
         <source>&amp;Print...</source>
-        <translation>&amp;打印...</translation>
+        <translation>打&amp;印...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="662"/>
         <source>Render to &amp;Images...</source>
-        <translation>&amp;渲染到图像...</translation>
+        <translation>渲染到&amp;图像...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="674"/>
@@ -2363,32 +2363,32 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="969"/>
         <source>Go to document &amp;start</source>
-        <translation>&amp;跳转到文档起始</translation>
+        <translation>跳转到文档&amp;起始</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="978"/>
         <source>Go to document &amp;end</source>
-        <translation>&amp;跳转到文档结尾</translation>
+        <translation>跳转到文档&amp;结尾</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="987"/>
         <source>Go to &amp;next page</source>
-        <translation>&amp;跳转到下一页</translation>
+        <translation>跳转到&amp;下一页</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="996"/>
         <source>Go to &amp;previous page</source>
-        <translation>&amp;跳转到上一页</translation>
+        <translation>跳转到&amp;上一页</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1005"/>
         <source>Go &amp;to next line</source>
-        <translation>&amp;跳转到下一行</translation>
+        <translation>跳&amp;转到下一行</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1014"/>
         <source>Go t&amp;o previous line</source>
-        <translation>&amp;跳转到上一行</translation>
+        <translation>跳转&amp;到上一行</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1023"/>
@@ -2418,7 +2418,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1061"/>
         <source>Automatic &amp;Document Refresh</source>
-        <translation>&amp;自动刷新文档</translation>
+        <translation>自动&amp;刷新文档</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1064"/>
@@ -2428,12 +2428,12 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1073"/>
         <source>Become a &amp;Sponsor</source>
-        <translation>&amp;成为捐赠者</translation>
+        <translation>成为&amp;捐赠者</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1082"/>
         <source>Create &amp;Bitonal Document...</source>
-        <translation>&amp;创建黑白文档...</translation>
+        <translation>创建&amp;黑白文档...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1085"/>
@@ -2478,7 +2478,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1127"/>
         <source>Go to Previous Boo&amp;kmark</source>
-        <translation>&amp;跳转到上一书签</translation>
+        <translation>跳转到上&amp;一书签</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1130"/>
@@ -2493,7 +2493,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1142"/>
         <source>&amp;Export Bookmarks</source>
-        <translation>&amp;导出书签</translation>
+        <translation>导&amp;出书签</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1145"/>
@@ -2508,7 +2508,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1157"/>
         <source>&amp;Import Bookmarks</source>
-        <translation>&amp;导入书签</translation>
+        <translation>导&amp;入书签</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1160"/>
@@ -2523,7 +2523,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1175"/>
         <source>&amp;Generate Bookmarks Automatically</source>
-        <translation>&amp;自动生成书签</translation>
+        <translation>自动&amp;生成书签</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1178"/>
@@ -2538,7 +2538,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1189"/>
         <source>Display &amp;Render Times</source>
-        <translation>&amp;显示渲染时间</translation>
+        <translation>显示&amp;渲染时间</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1192"/>
@@ -5541,7 +5541,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="47"/>
         <source>Book&amp;mark Settings</source>
-        <translation>&amp;书签设置</translation>
+        <translation>书&amp;签设置</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="67"/>
@@ -5551,7 +5551,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="71"/>
         <source>Page La&amp;yout</source>
-        <translation>&amp;页面布局</translation>
+        <translation>页面&amp;布局</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="82"/>
@@ -5571,7 +5571,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="152"/>
         <source>&amp;Open...</source>
-        <translation>&amp;打开...</translation>
+        <translation>打&amp;开...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="161"/>
@@ -5616,7 +5616,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="211"/>
         <source>&amp;Two columns</source>
-        <translation>&amp;双列</translation>
+        <translation>双&amp;列</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="214"/>
@@ -5641,7 +5641,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="237"/>
         <source>Rendering &amp;Errors...</source>
-        <translation>&amp;渲染错误...</translation>
+        <translation>渲染&amp;错误...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="240"/>
@@ -5701,12 +5701,12 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="325"/>
         <source>Fit &amp;Page</source>
-        <translation>&amp;适应页面</translation>
+        <translation>适应&amp;页面</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="334"/>
         <source>Fit &amp;Width</source>
-        <translation>&amp;适应宽度</translation>
+        <translation>适应&amp;宽度</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="337"/>
@@ -5716,7 +5716,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="346"/>
         <source>&amp;Fit Height</source>
-        <translation>&amp;适应高度</translation>
+        <translation>适应&amp;高度</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="349"/>
@@ -5731,47 +5731,47 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="367"/>
         <source>Send by &amp;E-Mail...</source>
-        <translation>&amp;通过邮件发送...</translation>
+        <translation>通过&amp;邮件发送...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="379"/>
         <source>Color | &amp;Inverted</source>
-        <translation>&amp;颜色 | 反转</translation>
+        <translation>颜色 | &amp;反转</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="391"/>
         <source>Color | &amp;Grayscale</source>
-        <translation>&amp;颜色 | 灰度</translation>
+        <translation>颜色 | &amp;灰度</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="403"/>
         <source>Color | &amp;High Contrast</source>
-        <translation>&amp;颜色 | 高对比度</translation>
+        <translation>颜色 | 高&amp;对比度</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="415"/>
         <source>Color | &amp;Monochromatic</source>
-        <translation>&amp;颜色 | 单色</translation>
+        <translation>颜色 | &amp;单色</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="427"/>
         <source>Color | &amp;Custom</source>
-        <translation>&amp;颜色 | 自定义</translation>
+        <translation>颜色 | &amp;自定义</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="436"/>
         <source>Rotate &amp;Right</source>
-        <translation>&amp;向右旋转</translation>
+        <translation>向&amp;右旋转</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="445"/>
         <source>Rotate &amp;Left</source>
-        <translation>&amp;向左旋转</translation>
+        <translation>向&amp;左旋转</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="454"/>
         <source>&amp;Print...</source>
-        <translation>&amp;打印...</translation>
+        <translation>打&amp;印...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="462"/>
@@ -5781,32 +5781,32 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="471"/>
         <source>Go to document &amp;start</source>
-        <translation>&amp;跳转到文档起始</translation>
+        <translation>跳转到文档&amp;起始</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="480"/>
         <source>Go to document &amp;end</source>
-        <translation>&amp;跳转到文档结尾</translation>
+        <translation>跳转到文档&amp;结尾</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="489"/>
         <source>Go to &amp;next page</source>
-        <translation>&amp;跳转到下一页</translation>
+        <translation>跳转到&amp;下一页</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="498"/>
         <source>Go to &amp;previous page</source>
-        <translation>&amp;跳转到上一页</translation>
+        <translation>跳转到&amp;上一页</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="507"/>
         <source>Go &amp;to next line</source>
-        <translation>&amp;跳转到下一行</translation>
+        <translation>跳&amp;转到下一行</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="516"/>
         <source>Go t&amp;o previous line</source>
-        <translation>&amp;跳转到上一行</translation>
+        <translation>跳转&amp;到上一行</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="525"/>
@@ -5821,7 +5821,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="542"/>
         <source>Automatic &amp;Document Refresh</source>
-        <translation>&amp;自动刷新文档</translation>
+        <translation>自动&amp;刷新文档</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="545"/>
@@ -5831,7 +5831,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="554"/>
         <source>Become a &amp;Sponsor</source>
-        <translation>&amp;成为捐赠者</translation>
+        <translation>成为&amp;捐赠者</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="557"/>
@@ -5871,7 +5871,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="596"/>
         <source>Go to Previous Boo&amp;kmark</source>
-        <translation>&amp;跳转到上一书签</translation>
+        <translation>跳转到上&amp;一书签</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="599"/>
@@ -5881,7 +5881,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="608"/>
         <source>&amp;Export Bookmarks</source>
-        <translation>&amp;导出书签</translation>
+        <translation>导&amp;出书签</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="611"/>
@@ -5896,7 +5896,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="623"/>
         <source>&amp;Import Bookmarks</source>
-        <translation>&amp;导入书签</translation>
+        <translation>导&amp;入书签</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="626"/>
@@ -5911,7 +5911,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="641"/>
         <source>&amp;Generate Bookmarks Automatically</source>
-        <translation>&amp;自动生成书签</translation>
+        <translation>自动&amp;生成书签</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="644"/>
@@ -5926,7 +5926,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="655"/>
         <source>Display &amp;Render Times</source>
-        <translation>&amp;显示渲染时间</translation>
+        <translation>显示&amp;渲染时间</translation>
     </message>
 </context>
 <context>
@@ -8934,7 +8934,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibCore/sources/pdfannotation.cpp" line="3071"/>
         <source>Not A&amp;pproved</source>
-        <translation>不&amp;支持</translation>
+        <translation>不支&amp;持</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibCore/sources/pdfannotation.cpp" line="3072"/>
@@ -11663,7 +11663,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtDiff/differencesdockwidget.cpp" line="98"/>
         <source>Differen&amp;ces</source>
-        <translation>差异</translation>
+        <translation>差&amp;异</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/differencesdockwidget.cpp" line="202"/>
@@ -12284,7 +12284,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtEditorPlugins/DimensionsPlugin/dimensionsplugin.cpp" line="50"/>
         <source>&amp;Rectangle Perimeter</source>
-        <translation>&amp;矩形周长</translation>
+        <translation>矩形周&amp;长</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/DimensionsPlugin/dimensionsplugin.cpp" line="51"/>
@@ -12294,7 +12294,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtEditorPlugins/DimensionsPlugin/dimensionsplugin.cpp" line="52"/>
         <source>R&amp;ectangle Area</source>
-        <translation>&amp;矩形面积</translation>
+        <translation>矩形面&amp;积</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/DimensionsPlugin/dimensionsplugin.cpp" line="53"/>
@@ -12923,7 +12923,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtEditorPlugins/RedactPlugin/redactplugin.cpp" line="53"/>
         <source>Redact &amp;Rectangle</source>
-        <translation>编辑&amp;矩形</translation>
+        <translation>编&amp;辑矩形</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/RedactPlugin/redactplugin.cpp" line="54"/>
@@ -12948,7 +12948,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtEditorPlugins/RedactPlugin/redactplugin.cpp" line="99"/>
         <source>Redac&amp;t</source>
-        <translation>&amp;编辑</translation>
+        <translation>编&amp;辑</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/RedactPlugin/redactplugin.cpp" line="115"/>
