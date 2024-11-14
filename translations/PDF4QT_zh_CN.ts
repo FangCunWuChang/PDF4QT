@@ -2999,118 +2999,118 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="14"/>
         <source>Render Document to Images</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染文档为图像</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="20"/>
         <source>Output Files Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>输出文件设置</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="26"/>
         <source>Pages to render</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染页面</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="33"/>
         <source>File template</source>
-        <translation type="unfinished"></translation>
+        <translation>文件模板</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="40"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="47"/>
         <source>Generate into directory</source>
-        <translation type="unfinished"></translation>
+        <translation>生成目录</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="54"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="67"/>
         <source>Pages:</source>
-        <translation type="unfinished"></translation>
+        <translation>页面：</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="80"/>
         <source>Image Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>图像分辨率</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="86"/>
         <source>Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>分辨率</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="93"/>
         <source>Pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>像素</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="100"/>
         <source>DPI</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="107"/>
         <source> dots/inch</source>
-        <translation type="unfinished"></translation>
+        <translation> 样点每英寸</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="126"/>
         <source> px</source>
-        <translation type="unfinished"></translation>
+        <translation> 像素</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="148"/>
         <source>Image Format Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>图像格式设置</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="154"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>格式</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="161"/>
         <source>Subtype</source>
-        <translation type="unfinished"></translation>
+        <translation>子类型</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="181"/>
         <source>Gamma</source>
-        <translation type="unfinished"></translation>
+        <translation>伽马</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="188"/>
         <source>Optimized write</source>
-        <translation type="unfinished"></translation>
+        <translation>优化写入</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="198"/>
         <source>Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>质量</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="205"/>
         <source>Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>压缩</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="215"/>
         <source>Progressive scan write</source>
-        <translation type="unfinished"></translation>
+        <translation>逐行扫描写入</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="222"/>
         <location filename="../Pdf4QtLibGui/pdfrendertoimagesdialog.ui" line="229"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>启用</translation>
     </message>
 </context>
 <context>
@@ -3118,7 +3118,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibWidgets/sources/pdfrenderingerrorswidget.ui" line="14"/>
         <source>Rendering errors</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染错误</translation>
     </message>
 </context>
 <context>
@@ -3126,12 +3126,12 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfsanitizedocumentdialog.ui" line="14"/>
         <source>Document sanitization</source>
-        <translation type="unfinished"></translation>
+        <translation>文档净化</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsanitizedocumentdialog.ui" line="20"/>
         <source>Sanitization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>净化设置</translation>
     </message>
 </context>
 <context>
@@ -3139,17 +3139,17 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibCore/sources/pdfsecurityhandler.cpp" line="2350"/>
         <source>User password contains invalid characters: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>用户密码包含无效字符：%1。</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibCore/sources/pdfsecurityhandler.cpp" line="2360"/>
         <source>Owner password contains invalid characters: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>所有者密码包含无效字符：%1。</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibCore/sources/pdfsecurityhandler.cpp" line="2376"/>
         <source>Invalid certificate or password.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的证书或密码。</translation>
     </message>
 </context>
 <context>
@@ -3157,27 +3157,27 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibWidgets/sources/pdfselectpagesdialog.ui" line="20"/>
         <source>All pages</source>
-        <translation type="unfinished"></translation>
+        <translation>所有页面</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibWidgets/sources/pdfselectpagesdialog.ui" line="30"/>
         <source>Even pages</source>
-        <translation type="unfinished"></translation>
+        <translation>偶数页面</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibWidgets/sources/pdfselectpagesdialog.ui" line="37"/>
         <source>Odd pages</source>
-        <translation type="unfinished"></translation>
+        <translation>奇数页面</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibWidgets/sources/pdfselectpagesdialog.ui" line="44"/>
         <source>Custom page range:</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义页面范围：</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibWidgets/sources/pdfselectpagesdialog.ui" line="51"/>
         <source>Visible pages</source>
-        <translation type="unfinished"></translation>
+        <translation>可见页面</translation>
     </message>
 </context>
 <context>
@@ -3185,73 +3185,73 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="84"/>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>大纲</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="116"/>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>缩略图</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="148"/>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>可见性</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="180"/>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>附件</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="212"/>
         <source>Speech</source>
-        <translation type="unfinished"></translation>
+        <translation>朗读</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="244"/>
         <source>Signatures</source>
-        <translation type="unfinished"></translation>
+        <translation>签名</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="276"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="305"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>笔记</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="318"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="384"/>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="574"/>
         <source>Search text or wildcard...</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索文本或通配符...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="421"/>
         <source>Synchronize thumbnails with current page</source>
-        <translation type="unfinished"></translation>
+        <translation>将缩略图与当前页面同步</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="622"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>音量</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="642"/>
         <source>Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>音调</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfsidebarwidget.ui" line="662"/>
         <source>Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>速率</translation>
     </message>
 </context>
 <context>
@@ -3259,32 +3259,32 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="48"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>帮助</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="51"/>
         <source>Show list of all available commands.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示可用命令列表。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="64"/>
         <source>PDFTool help</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF工具帮助</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="67"/>
         <source>List of available commands</source>
-        <translation type="unfinished"></translation>
+        <translation>可用命令列表</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="71"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>命令</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="72"/>
         <source>Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>工具</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="73"/>
@@ -3292,209 +3292,209 @@ li.checked::marker { content: &quot;\2612&quot;; }
         <location filename="../PdfTool/pdftoolrender.cpp" line="292"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="239"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>描述</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="113"/>
         <source>Text Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>文件编码</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="115"/>
         <source>When you redirect console to a file, then specific codec is used to transform output text to target encoding. UTF-8 encoding is used by default. For XML output, you should use only UTF-8 codec. Available codecs:</source>
-        <translation type="unfinished"></translation>
+        <translation>当您将控制台重定向到文件时，将使用特定的编解码器将输出文本转换为目标编码。默认情况下使用UTF-8编码。对于XML输出，您应该只使用UTF-8编解码器。可用编解码器：</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="126"/>
         <source>Suggested codec: UTF-8 or %1</source>
-        <translation type="unfinished"></translation>
+        <translation>建议编码器：UTF-8或%1</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="371"/>
         <source>Unknown console format &apos;%1&apos;. Defaulting to text console format.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的控制台格式“%1”。默认为文本控制台格式。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="401"/>
         <source>Unknown console date/time format &apos;%1&apos;. Defaulting to short date/time format.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的控制台日期/时间格式“%1”。默认为短日期/时间格式。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="476"/>
         <source>Unknown text layout analysis algorithm &apos;%1&apos;. Defaulting to automatic algorithm selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的文本布局分析算法“%1”。默认为自动算法选择。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="504"/>
         <source>Unknown audio format &apos;%1&apos;. Defaulting to mp3 audio format.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的音频格式“%1”。默认为mp3音频格式。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="527"/>
         <source>Image format &apos;%1&apos; is not supported. Defaulting to png.</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持图像格式“%1”。默认为png格式。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="544"/>
         <source>Image format subtype &apos;%1&apos; is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持图像格式子类型“%1”。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="563"/>
         <source>Image compression for current format is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持当前格式的图像压缩。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="568"/>
         <source>Invalid compression level &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>压缩级别“%1”无效。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="587"/>
         <source>Image quality settings for current format is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持当前格式的图像质量设置。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="592"/>
         <source>Invalid image quality &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像质量“%1”无效。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="607"/>
         <source>Optimized write is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持优化写入。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="619"/>
         <source>Progressive scan write is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持逐行扫描写入。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="651"/>
         <source>Invalid image resolution mode &apos;%1&apos;. Defaulting to dpi.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像分辨率模式“%1”无效。默认为dpi。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="659"/>
         <source>Cannot set dpi value, resolution mode must be dpi.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法设置dpi值，分辨率模式必须为dpi。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="670"/>
         <source>Dpi must be in range from %1 to %2. Defaulting to %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dpi必须在%1到%2的范围内。默认为%3。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="677"/>
         <source>Invalid image dpi value &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像dpi值“%1”无效。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="685"/>
         <source>Cannot set pixel value, resolution mode must be pixel.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法设置像素值，分辨率模式必须为像素。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="696"/>
         <source>Pixel value must be in range from %1 to %2. Defaulting to %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>像素值必须在%1到%2的范围内。默认为%3。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="703"/>
         <source>Invalid image pixel value &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像像素值“%1”无效。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="724"/>
         <source>Unknown color management system &apos;%1&apos;. Defaulting to lcms.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的颜色管理系统“%1”。默认为lcms。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="743"/>
         <source>Uknown color management system accuracy &apos;%1&apos;. Defaulting to medium.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知颜色管理系统精度“%1”。默认为中等。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="770"/>
         <source>Unknown color adaptation method &apos;%1&apos;. Defaulting to bradford.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的颜色自适应方法“%1”。默认为bradford。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="797"/>
         <source>Uknown color management system rendering intent &apos;%1&apos;. Defaulting to auto.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的颜色管理系统渲染意图“%1”。默认为自动模式。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="846"/>
         <source>Uknown bool value &apos;%1&apos;. Default value is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知布尔值“%1”。使用默认值。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="859"/>
         <source>Uknown bool value &apos;%1&apos;. GPU rendering is used as default.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知布尔值“%1”。默认情况下使用GPU渲染。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="866"/>
         <source>Uknown MSAA sample count &apos;%1&apos;. 4 samples are used as default.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的MSAA样本计数“%1”。默认使用4个样本。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="875"/>
         <source>Uknown rasterizer count &apos;%1&apos;. %2 rasterizers are used as default.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知光栅化器计数“%1”。默认使用%2个光栅化器。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="880"/>
         <source>Invalid raterizer count: %1. Correcting to use %2 rasterizers.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的光栅化器数量：%1。更正为使用%2个光栅化器。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="939"/>
         <source>Unknown encryption algorithm &apos;%1&apos;. Defaulting to AES-256 encryption.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知加密算法“%1”。默认为AES-256加密。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="962"/>
         <source>Unknown encryption contents mode &apos;%1&apos;. Defaulting to encrypt all contents.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的加密内容模式“%1”。默认加密所有内容。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="1021"/>
         <source>Invalid password provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>提供的密码无效。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="1027"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="79"/>
         <source>Error occured during document reading. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>读取文档时出错。%1</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolabstractapplication.cpp" line="1040"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="90"/>
         <source>Warning: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>警告：%1</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="37"/>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>附件</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="40"/>
         <source>Show list or save attached files.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示列表或保存附件。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="117"/>
         <source>Attached files of document %1</source>
-        <translation type="unfinished"></translation>
+        <translation>文档%1的附件</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="120"/>
         <source>Attached files overview</source>
-        <translation type="unfinished"></translation>
+        <translation>附件概览</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="123"/>
@@ -3509,61 +3509,61 @@ li.checked::marker { content: &quot;\2612&quot;; }
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="72"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="141"/>
         <source>No.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="124"/>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="163"/>
         <source>File name</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="125"/>
         <source>Mime type</source>
-        <translation type="unfinished"></translation>
+        <translation>Mime类型</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="126"/>
         <source>Mime type description</source>
-        <translation type="unfinished"></translation>
+        <translation>Mime类型描述</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="127"/>
         <source>File description</source>
-        <translation type="unfinished"></translation>
+        <translation>文件描述</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="128"/>
         <source>Packed size [bytes]</source>
-        <translation type="unfinished"></translation>
+        <translation>打包大小[字节]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="156"/>
         <source>Target file name must not be specified, if multiple files are being saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果要保存多个文件，则不得指定目标文件名。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="191"/>
         <location filename="../PdfTool/pdftoolattachments.cpp" line="197"/>
         <source>Failed to save attachment to file. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>未能将附件保存到文件。%1</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="131"/>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="137"/>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="209"/>
         <source>SAPI Error: Cannot enumerate SAPI voices.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI错误：无法枚举SAPI语音。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="232"/>
         <source>Available voices for given settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>给定设置的可用语音：</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="235"/>
         <source>Voice list</source>
-        <translation type="unfinished"></translation>
+        <translation>语音列表</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="238"/>
@@ -3572,122 +3572,122 @@ li.checked::marker { content: &quot;\2612&quot;; }
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="80"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="258"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="239"/>
         <source>Gender</source>
-        <translation type="unfinished"></translation>
+        <translation>性别</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="240"/>
         <source>Age</source>
-        <translation type="unfinished"></translation>
+        <translation>年龄</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="241"/>
         <source>Lang. Code</source>
-        <translation type="unfinished"></translation>
+        <translation>语言代码</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="242"/>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>区域</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="243"/>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="192"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>语言</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="244"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="255"/>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>国家</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="245"/>
         <source>Vendor</source>
-        <translation type="unfinished"></translation>
+        <translation>供应商</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="246"/>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="92"/>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="222"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>版本</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="281"/>
         <source>Audio book voices</source>
-        <translation type="unfinished"></translation>
+        <translation>有声读物语音</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="284"/>
         <source>List of available voices for audio book conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>用于有声读物转换的可用声音列表。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="321"/>
         <source>Audio book convertor</source>
-        <translation type="unfinished"></translation>
+        <translation>有声读物转换器</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="324"/>
         <source>Convert your document to a simple audio book.</source>
-        <translation type="unfinished"></translation>
+        <translation>将文档转换为简单的有声读物。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="394"/>
         <source>No suitable voice found.</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到合适的音色。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="400"/>
         <source>Invalid voice.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的音色。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="411"/>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="425"/>
         <source>Cannot create output stream &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建输出流“%1”。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="418"/>
         <source>Cannot create voice.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建语音。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="434"/>
         <source>Failed to set requested voice. Default voice will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置请求的语音失败。将使用默认语音。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolaudiobook.cpp" line="460"/>
         <source>No text extracted to be converted to audio book.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有提取到要转换为有声读物的文本。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="37"/>
         <source>Certificate Store</source>
-        <translation type="unfinished"></translation>
+        <translation>证书存储</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="40"/>
         <source>Certificate store operations (list, add, remove certificates).</source>
-        <translation type="unfinished"></translation>
+        <translation>证书存储操作（列出、添加、删除证书）。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="69"/>
         <source>Certificates used in signature verification</source>
-        <translation type="unfinished"></translation>
+        <translation>签名验证中使用的证书</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="72"/>
         <source>Certificates</source>
-        <translation type="unfinished"></translation>
+        <translation>证书</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="76"/>
@@ -3698,213 +3698,213 @@ li.checked::marker { content: &quot;\2612&quot;; }
         <location filename="../PdfTool/pdftoolstatistics.cpp" line="126"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="142"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="77"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="144"/>
         <source>Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>证书</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="78"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="256"/>
         <source>Organization</source>
-        <translation type="unfinished"></translation>
+        <translation>组织</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="79"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="309"/>
         <source>Valid from</source>
-        <translation type="unfinished"></translation>
+        <translation>有效期从</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="80"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="317"/>
         <source>Valid to</source>
-        <translation type="unfinished"></translation>
+        <translation>有效期至</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="92"/>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>用户</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="96"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>系统</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="153"/>
         <source>Install Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>安装证书</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="156"/>
         <source>Install a new user certificate to certificate store.</source>
-        <translation type="unfinished"></translation>
+        <translation>将新用户证书安装到证书存储区。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="177"/>
         <source>Cannot open file &apos;%1&apos;. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开文件“%1”。%2</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="190"/>
         <source>Cannot read certificate from file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法从文件“%1”读取证书。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcolorprofiles.cpp" line="34"/>
         <source>Color Profiles List</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色配置文件列表</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcolorprofiles.cpp" line="37"/>
         <source>Show list of available color profiles.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示可用颜色配置文件的列表。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcolorprofiles.cpp" line="50"/>
         <source>Available Color Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>可用颜色配置文件</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcolorprofiles.cpp" line="66"/>
         <location filename="../PdfTool/pdftoolinfoinks.cpp" line="68"/>
         <source>Identifier</source>
-        <translation type="unfinished"></translation>
+        <translation>标识符</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcolorprofiles.cpp" line="89"/>
         <source>Output Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>输出配置文件</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcolorprofiles.cpp" line="90"/>
         <source>Gray Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>灰度配置文件</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcolorprofiles.cpp" line="91"/>
         <source>RGB Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB配置文件</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcolorprofiles.cpp" line="92"/>
         <source>CMYK Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>CMYK配置文件</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooldecrypt.cpp" line="35"/>
         <source>Decrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>解密</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooldecrypt.cpp" line="38"/>
         <source>Remove encryption from a document (with only owner access only).</source>
-        <translation type="unfinished"></translation>
+        <translation>从文档中删除加密（仅限所有者访问）。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooldecrypt.cpp" line="56"/>
         <source>Authorization as owner failed. Encryption removal is not permitted if authorized as user only.</source>
-        <translation type="unfinished"></translation>
+        <translation>作为所有者的授权失败。如果仅以用户身份授权，则不允许删除加密。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooldecrypt.cpp" line="63"/>
         <source>Document is not encrypted.</source>
-        <translation type="unfinished"></translation>
+        <translation>文档未加密。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooldiff.cpp" line="36"/>
         <source>Compare documents</source>
-        <translation type="unfinished"></translation>
+        <translation>比较文档</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooldiff.cpp" line="39"/>
         <source>Compare contents of two documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>比较两个文档的内容。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooldiff.cpp" line="53"/>
         <source>Exactly two documents must be specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>必须指定两个文档。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooldiff.cpp" line="62"/>
         <location filename="../PdfTool/pdftooldiff.cpp" line="69"/>
         <location filename="../PdfTool/pdftoolunite.cpp" line="88"/>
         <source>Cannot open document &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开文档“%1”。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooldiff.cpp" line="93"/>
         <source>Difference Report</source>
-        <translation type="unfinished"></translation>
+        <translation>差异报告</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooldiff.cpp" line="96"/>
         <source>Differences</source>
-        <translation type="unfinished"></translation>
+        <translation>差异</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooldiff.cpp" line="101"/>
         <source>Left Page</source>
-        <translation type="unfinished"></translation>
+        <translation>左侧页面</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooldiff.cpp" line="102"/>
         <source>Right Page</source>
-        <translation type="unfinished"></translation>
+        <translation>右侧页面</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolencrypt.cpp" line="35"/>
         <source>Encrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>加密</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolencrypt.cpp" line="38"/>
         <source>Encrypt the document (with only owner access only).</source>
-        <translation type="unfinished"></translation>
+        <translation>加密文档（仅限所有者访问）。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolencrypt.cpp" line="72"/>
         <source>Authorization as owner failed. Encryption change is not permitted if authorized as user only.</source>
-        <translation type="unfinished"></translation>
+        <translation>作为所有者的授权失败。如果仅以用户身份授权，则不允许更改加密。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchimages.cpp" line="106"/>
         <source>Fetch images</source>
-        <translation type="unfinished"></translation>
+        <translation>获取图像</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchimages.cpp" line="109"/>
         <source>Fetch image content from document.</source>
-        <translation type="unfinished"></translation>
+        <translation>从文档中获取图像内容。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchimages.cpp" line="130"/>
         <location filename="../PdfTool/pdftoolfetchtext.cpp" line="58"/>
         <location filename="../PdfTool/pdftoolseparate.cpp" line="63"/>
         <source>Document doesn&apos;t allow to copy content.</source>
-        <translation type="unfinished"></translation>
+        <translation>文档不允许复制内容。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchimages.cpp" line="191"/>
         <source>Images fetched from document %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已从文档%1获取图像</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchimages.cpp" line="194"/>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="283"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="138"/>
         <source>Overview</source>
-        <translation type="unfinished"></translation>
+        <translation>概览</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchimages.cpp" line="197"/>
         <source>Image No.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像 No.</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchimages.cpp" line="198"/>
@@ -3912,70 +3912,70 @@ li.checked::marker { content: &quot;\2612&quot;; }
         <location filename="../PdfTool/pdftoolrender.cpp" line="330"/>
         <location filename="../PdfTool/pdftoolrender.cpp" line="366"/>
         <source>Page No.</source>
-        <translation type="unfinished"></translation>
+        <translation>页面 No.</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchimages.cpp" line="199"/>
         <source>Width [pixels]</source>
-        <translation type="unfinished"></translation>
+        <translation>宽度[像素]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchimages.cpp" line="200"/>
         <source>Height [pixels]</source>
-        <translation type="unfinished"></translation>
+        <translation>高度[像素]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchimages.cpp" line="201"/>
         <source>Size [bytes]</source>
-        <translation type="unfinished"></translation>
+        <translation>大小[字节]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchimages.cpp" line="202"/>
         <source>Stored to</source>
-        <translation type="unfinished"></translation>
+        <translation>存储到</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchimages.cpp" line="243"/>
         <location filename="../PdfTool/pdftoolrender.cpp" line="91"/>
         <source>Cannot write page image to file &apos;%1&apos;, because: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法将页面图像写入文件“%1”，因为：%2。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchtext.cpp" line="34"/>
         <source>Fetch text</source>
-        <translation type="unfinished"></translation>
+        <translation>获取文本</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolfetchtext.cpp" line="37"/>
         <source>Fetch text content from document.</source>
-        <translation type="unfinished"></translation>
+        <translation>从文档获取文本。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="38"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="41"/>
         <source>Retrieve basic informations about a document.</source>
-        <translation type="unfinished"></translation>
+        <translation>检索文档的基本信息。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="66"/>
         <location filename="../PdfTool/pdftoolstatistics.cpp" line="63"/>
         <source>Information about document %1</source>
-        <translation type="unfinished"></translation>
+        <translation>关于文档%1的信息</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="69"/>
         <source>Properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>属性：</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="72"/>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="172"/>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="73"/>
@@ -3985,49 +3985,49 @@ li.checked::marker { content: &quot;\2612&quot;; }
         <location filename="../PdfTool/pdftoolrender.cpp" line="293"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="240"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>值</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="84"/>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="188"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="262"/>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>标题</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="85"/>
         <source>Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>主题</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="86"/>
         <source>Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>关键字</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="87"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>作者</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="88"/>
         <source>Creator</source>
-        <translation type="unfinished"></translation>
+        <translation>创建者</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="89"/>
         <source>Producer</source>
-        <translation type="unfinished"></translation>
+        <translation>制作者</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="90"/>
         <source>Creation date</source>
-        <translation type="unfinished"></translation>
+        <translation>创建日期</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="91"/>
         <source>Modified date</source>
-        <translation type="unfinished"></translation>
+        <translation>修改日期</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="98"/>
@@ -4040,7 +4040,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="172"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="201"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="102"/>
@@ -4055,834 +4055,834 @@ li.checked::marker { content: &quot;\2612&quot;; }
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="172"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="201"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="106"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="164"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="193"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="114"/>
         <source>Tagged</source>
-        <translation type="unfinished"></translation>
+        <translation>标记的</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="121"/>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="175"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="125"/>
         <source>AcroForm</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="129"/>
         <source>XFA</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="137"/>
         <source>Form type</source>
-        <translation type="unfinished"></translation>
+        <translation>表单类型</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="140"/>
         <source>Page count</source>
-        <translation type="unfinished"></translation>
+        <translation>页面计数</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="148"/>
         <source>Paper format</source>
-        <translation type="unfinished"></translation>
+        <translation>纸张格式</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="149"/>
         <source>Paper size</source>
-        <translation type="unfinished"></translation>
+        <translation>纸张大小</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="164"/>
         <source>File size</source>
-        <translation type="unfinished"></translation>
+        <translation>文件大小</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="167"/>
         <source>JavaScript</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="179"/>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="217"/>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>标准</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="183"/>
         <source>Public Key</source>
-        <translation type="unfinished"></translation>
+        <translation>公钥</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="187"/>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="239"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="199"/>
         <source>No authorization required</source>
-        <translation type="unfinished"></translation>
+        <translation>无需授权</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="203"/>
         <source>Authorized as owner</source>
-        <translation type="unfinished"></translation>
+        <translation>授权为所有者</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="207"/>
         <source>Authorized as user</source>
-        <translation type="unfinished"></translation>
+        <translation>授权为用户</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="215"/>
         <source>Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>加密</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="216"/>
         <source>Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>授权</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="221"/>
         <source>Metadata encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>元数据加密</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="226"/>
         <source>Print (low resolution)</source>
-        <translation type="unfinished"></translation>
+        <translation>打印（低精度）</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="230"/>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>打印</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="234"/>
         <source>Copy content</source>
-        <translation type="unfinished"></translation>
+        <translation>复制内容</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="238"/>
         <source>Accessibility</source>
-        <translation type="unfinished"></translation>
+        <translation>可访问性</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="242"/>
         <source>Page assembling</source>
-        <translation type="unfinished"></translation>
+        <translation>页面组装</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="246"/>
         <source>Modify content</source>
-        <translation type="unfinished"></translation>
+        <translation>更改内容</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="250"/>
         <source>Modify interactive items</source>
-        <translation type="unfinished"></translation>
+        <translation>更改交互条目</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="254"/>
         <source>Form filling</source>
-        <translation type="unfinished"></translation>
+        <translation>表单填充</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="259"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="262"/>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>权限</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="270"/>
         <source>File hashes:</source>
-        <translation type="unfinished"></translation>
+        <translation>文件哈希：</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="273"/>
         <source>Algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>算法</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="274"/>
         <source>Hash</source>
-        <translation type="unfinished"></translation>
+        <translation>哈希</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="285"/>
         <source>MD5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="286"/>
         <source>SHA1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="287"/>
         <source>SHA256</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="288"/>
         <source>SHA384</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfo.cpp" line="289"/>
         <source>SHA512</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="37"/>
         <source>Info about used fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>关于已使用字体的信息</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="40"/>
         <source>Retrieve informations about font usage in a document.</source>
-        <translation type="unfinished"></translation>
+        <translation>检索文档中字体使用情况的信息。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="168"/>
         <source>Type 0 (CID)</source>
-        <translation type="unfinished"></translation>
+        <translation>类型0（CID）</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="172"/>
         <source>Type 1 (8 bit)</source>
-        <translation type="unfinished"></translation>
+        <translation>类型1（8位）</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="176"/>
         <source>MM Type 1 (8 bit)</source>
-        <translation type="unfinished"></translation>
+        <translation>MM类型1（8位）</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="180"/>
         <source>TrueType (8 bit)</source>
-        <translation type="unfinished"></translation>
+        <translation>TrueType（8位）</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="184"/>
         <source>Type 3</source>
-        <translation type="unfinished"></translation>
+        <translation>类型3</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="220"/>
         <source>MacRoman</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="223"/>
         <source>WinAnsi</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="226"/>
         <source>PDFDoc</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="229"/>
         <source>MacExpert</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="232"/>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="235"/>
         <source>ZapfDingbats</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="280"/>
         <source>Fonts used in document %1</source>
-        <translation type="unfinished"></translation>
+        <translation>文档%1中使用的字体</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="287"/>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="347"/>
         <source>Font Name</source>
-        <translation type="unfinished"></translation>
+        <translation>字体名称</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="288"/>
         <source>Font Type</source>
-        <translation type="unfinished"></translation>
+        <translation>字体类型</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="289"/>
         <source>Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>编码</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="290"/>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>页面</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="291"/>
         <source>Embedded</source>
-        <translation type="unfinished"></translation>
+        <translation>嵌入的</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="292"/>
         <source>Subset</source>
-        <translation type="unfinished"></translation>
+        <translation>子集</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="293"/>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="406"/>
         <source>Unicode</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="294"/>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="350"/>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>对象</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="295"/>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="351"/>
         <source>Gen.</source>
-        <translation type="unfinished"></translation>
+        <translation>代.</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="302"/>
         <source>--</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="343"/>
         <source>Substitutions</source>
-        <translation type="unfinished"></translation>
+        <translation>替代品</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="348"/>
         <source>Substituted by Font</source>
-        <translation type="unfinished"></translation>
+        <translation>使用字体替代</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="349"/>
         <source>Match</source>
-        <translation type="unfinished"></translation>
+        <translation>匹配</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="366"/>
         <source>??</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="390"/>
         <source>Font Character Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>字体字符映射</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="400"/>
         <source>Character Map for Font &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>字体“%1”的字符映射</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="404"/>
         <source>Glyph Index</source>
-        <translation type="unfinished"></translation>
+        <translation>字形索引</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfofonts.cpp" line="405"/>
         <source>Character</source>
-        <translation type="unfinished"></translation>
+        <translation>字符</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfoinks.cpp" line="34"/>
         <source>Info about used inks</source>
-        <translation type="unfinished"></translation>
+        <translation>使用的油墨的信息</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfoinks.cpp" line="37"/>
         <source>Retrieve information about inks used in a document.</source>
-        <translation type="unfinished"></translation>
+        <translation>检索文档中使用的墨水信息。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfoinks.cpp" line="61"/>
         <source>Inks</source>
-        <translation type="unfinished"></translation>
+        <translation>墨水</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfoinks.cpp" line="64"/>
         <source>Ink list</source>
-        <translation type="unfinished"></translation>
+        <translation>油墨列表</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfoinks.cpp" line="70"/>
         <source>Spot</source>
-        <translation type="unfinished"></translation>
+        <translation>墨点</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfoinks.cpp" line="71"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="34"/>
         <source>Info (JavaScript code)</source>
-        <translation type="unfinished"></translation>
+        <translation>信息（JavaScript代码）</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="37"/>
         <source>Retrieve informations about JavaScript usage in a document.</source>
-        <translation type="unfinished"></translation>
+        <translation>检索文档中有关JavaScript使用的信息。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="71"/>
         <source>JavaScript used in document %1</source>
-        <translation type="unfinished"></translation>
+        <translation>文档%1中使用的JavaScript</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="74"/>
         <source>JavaScript Usage Overview</source>
-        <translation type="unfinished"></translation>
+        <translation>JavaScript使用概述</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="78"/>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation>内容</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="79"/>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="73"/>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>页码</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="80"/>
         <source>Code Size</source>
-        <translation type="unfinished"></translation>
+        <translation>代码大小</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="81"/>
         <source>Code Snippet</source>
-        <translation type="unfinished"></translation>
+        <translation>代码段</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="93"/>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>文档</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="97"/>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="143"/>
         <source>Named</source>
-        <translation type="unfinished"></translation>
+        <translation>命名</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="101"/>
         <location filename="../PdfTool/pdftoolstatistics.cpp" line="111"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表单</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="105"/>
         <location filename="../PdfTool/pdftoolstatistics.cpp" line="104"/>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>页面</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="109"/>
         <location filename="../PdfTool/pdftoolstatistics.cpp" line="114"/>
         <source>Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>注释</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="131"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="183"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>详情</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfojavascript.cpp" line="137"/>
         <source>JavaScript #%1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfometadata.cpp" line="34"/>
         <source>Extract document metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>提取文档元数据</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfometadata.cpp" line="37"/>
         <source>Extract document metadata (embedded xml stream).</source>
-        <translation type="unfinished"></translation>
+        <translation>提取文档元数据（嵌入式xml流）。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfometadata.cpp" line="71"/>
         <source>Metadata not found in document.</source>
-        <translation type="unfinished"></translation>
+        <translation>文档中找不到元数据。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="34"/>
         <source>Info (Named Destinations)</source>
-        <translation type="unfinished"></translation>
+        <translation>信息（具名目标）</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="37"/>
         <source>Retrieve informations about named destinations in a document.</source>
-        <translation type="unfinished"></translation>
+        <translation>检索文档中有关具名目标的信息。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="66"/>
         <source>Named destinations used in document %1</source>
-        <translation type="unfinished"></translation>
+        <translation>文档%1中使用的具名目标</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="69"/>
         <source>Named Destinations</source>
-        <translation type="unfinished"></translation>
+        <translation>具名目标</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="75"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="76"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>上</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="77"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="78"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>下</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="79"/>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="137"/>
         <location filename="../PdfTool/pdftoolverifysignatures.cpp" line="119"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>无效</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="149"/>
         <source>XYZ</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="161"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>适应</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="167"/>
         <source>FitH</source>
-        <translation type="unfinished"></translation>
+        <translation>水平适应</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="174"/>
         <source>FitV</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直适应</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="181"/>
         <source>FitR</source>
-        <translation type="unfinished"></translation>
+        <translation>填充适应</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="191"/>
         <source>FitB</source>
-        <translation type="unfinished"></translation>
+        <translation>最佳适应</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="197"/>
         <source>FitBH</source>
-        <translation type="unfinished"></translation>
+        <translation>水平最佳适应</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfonameddestinations.cpp" line="204"/>
         <source>FitBV</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直最佳适应</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfopageboxes.cpp" line="34"/>
         <source>Info (page boxes)</source>
-        <translation type="unfinished"></translation>
+        <translation>信息（页面盒）</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfopageboxes.cpp" line="37"/>
         <source>Retrieve informations about page boxes in a document.</source>
-        <translation type="unfinished"></translation>
+        <translation>检索文档中有关页面盒的信息。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfopageboxes.cpp" line="111"/>
         <source>Page boxes in document %1</source>
-        <translation type="unfinished"></translation>
+        <translation>文档%1中的页面盒</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfopageboxes.cpp" line="133"/>
         <source>Pages %1</source>
-        <translation type="unfinished"></translation>
+        <translation>页面%1</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfopageboxes.cpp" line="136"/>
         <source>Box</source>
-        <translation type="unfinished"></translation>
+        <translation>盒</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfopageboxes.cpp" line="140"/>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>媒体</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfopageboxes.cpp" line="141"/>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>裁切</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfopageboxes.cpp" line="142"/>
         <source>Bleed</source>
-        <translation type="unfinished"></translation>
+        <translation>出血</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfopageboxes.cpp" line="143"/>
         <source>Trim</source>
-        <translation type="unfinished"></translation>
+        <translation>修建</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfopageboxes.cpp" line="144"/>
         <source>Art</source>
-        <translation type="unfinished"></translation>
+        <translation>工艺</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="52"/>
         <source>Structure Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>结构树</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="65"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="70"/>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation>所有者</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="71"/>
         <source>Revision</source>
-        <translation type="unfinished"></translation>
+        <translation>修订</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="72"/>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="117"/>
         <source>[null]</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="141"/>
         <source>[complex type]</source>
-        <translation type="unfinished"></translation>
+        <translation>[复合类型]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="168"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="196"/>
         <source>Alternative description</source>
-        <translation type="unfinished"></translation>
+        <translation>备选说明</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="200"/>
         <source>Expanded form</source>
-        <translation type="unfinished"></translation>
+        <translation>扩展表单</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="204"/>
         <source>Actual text</source>
-        <translation type="unfinished"></translation>
+        <translation>实际文本</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="208"/>
         <source>Phoneme</source>
-        <translation type="unfinished"></translation>
+        <translation>音素</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="233"/>
         <source>Marked Content Reference %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已标记内容引用%1</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="239"/>
         <source>Structure Object Reference [%1 %2 R]</source>
-        <translation type="unfinished"></translation>
+        <translation>结构对象引用[%1 %2 R]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="252"/>
         <source>Info (Structure tree)</source>
-        <translation type="unfinished"></translation>
+        <translation>信息（结构树）</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="255"/>
         <source>Examine structure tree in tagged document.</source>
-        <translation type="unfinished"></translation>
+        <translation>检查标记文档中的结构树。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="278"/>
         <source>Structure tree in document %1</source>
-        <translation type="unfinished"></translation>
+        <translation>文档%1中的结构树</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinfostructuretree.cpp" line="288"/>
         <source>No structure tree found in document.</source>
-        <translation type="unfinished"></translation>
+        <translation>文档中找不到结构树。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinkcoverage.cpp" line="34"/>
         <source>Ink coverage</source>
-        <translation type="unfinished"></translation>
+        <translation>墨水覆盖</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinkcoverage.cpp" line="37"/>
         <source>Calculate ink coverage of the selected pages, or a whole document.</source>
-        <translation type="unfinished"></translation>
+        <translation>计算所选页面或整个文档的墨水覆盖率。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinkcoverage.cpp" line="91"/>
         <source>Ink Coverage</source>
-        <translation type="unfinished"></translation>
+        <translation>墨水覆盖</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinkcoverage.cpp" line="94"/>
         <source>Ink Coverage by Page</source>
-        <translation type="unfinished"></translation>
+        <translation>页面墨水覆盖范围</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinkcoverage.cpp" line="122"/>
         <source>%1 Ratio [%]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 比率 [%]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinkcoverage.cpp" line="123"/>
         <source>%1 Covered [mm^2]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 覆盖 [mm^2]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolinkcoverage.cpp" line="163"/>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>加和</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooloptimize.cpp" line="35"/>
         <source>Optimize</source>
-        <translation type="unfinished"></translation>
+        <translation>优化</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooloptimize.cpp" line="38"/>
         <source>Optimize document size using various algorithms.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用多种算法优化文档大小。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooloptimize.cpp" line="52"/>
         <source>No optimization option has been set.</source>
-        <translation type="unfinished"></translation>
+        <translation>未设置优化选项。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftooloptimize.cpp" line="73"/>
         <source>Failed to write optimize document. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入优化文档。%1</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="39"/>
         <source>Render document</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染文档</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="42"/>
         <source>Render selected pages of document into image files.</source>
-        <translation type="unfinished"></translation>
+        <translation>将文档的选定页面渲染为图像文件。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="60"/>
         <source>Render document %1</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染文档%1</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="105"/>
         <source>Benchmark rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染基准测试</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="108"/>
         <source>Benchmark page rendering (measure time, detect errors).</source>
-        <translation type="unfinished"></translation>
+        <translation>页面渲染基准测试（测量时间，检测错误）。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="126"/>
         <source>Benchmark rendering of document %1</source>
-        <translation type="unfinished"></translation>
+        <translation>文档%1的渲染基准测试</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="289"/>
         <location filename="../PdfTool/pdftoolstatistics.cpp" line="34"/>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>统计</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="294"/>
         <source>Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>单元</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="306"/>
         <source>Pages rendered</source>
-        <translation type="unfinished"></translation>
+        <translation>已渲染页面</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="306"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="307"/>
         <source>Total compile time</source>
-        <translation type="unfinished"></translation>
+        <translation>总编译时间</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="307"/>
@@ -4892,57 +4892,57 @@ li.checked::marker { content: &quot;\2612&quot;; }
         <location filename="../PdfTool/pdftoolrender.cpp" line="311"/>
         <location filename="../PdfTool/pdftoolrender.cpp" line="312"/>
         <source>msec</source>
-        <translation type="unfinished"></translation>
+        <translation>毫秒</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="308"/>
         <source>Total render time</source>
-        <translation type="unfinished"></translation>
+        <translation>总渲染时间</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="309"/>
         <source>Total wait time</source>
-        <translation type="unfinished"></translation>
+        <translation>总等待时间</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="310"/>
         <source>Total write time</source>
-        <translation type="unfinished"></translation>
+        <translation>总写入时间</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="311"/>
         <source>Total time</source>
-        <translation type="unfinished"></translation>
+        <translation>总时间</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="312"/>
         <source>Wall time</source>
-        <translation type="unfinished"></translation>
+        <translation>墙上时间</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="313"/>
         <source>Rendering speed (per core)</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染速度（每核心）</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="313"/>
         <source>pages / sec (one core)</source>
-        <translation type="unfinished"></translation>
+        <translation>页每秒（单核）</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="314"/>
         <source>Rendering speed (wall time)</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染速度（墙上时间）</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="314"/>
         <source>pages / sec</source>
-        <translation type="unfinished"></translation>
+        <translation>页每秒</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="315"/>
         <source>Compile time ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>编译时间占比</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="315"/>
@@ -4950,97 +4950,97 @@ li.checked::marker { content: &quot;\2612&quot;; }
         <location filename="../PdfTool/pdftoolrender.cpp" line="317"/>
         <location filename="../PdfTool/pdftoolrender.cpp" line="318"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="316"/>
         <source>Render time ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染时间占比</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="317"/>
         <source>Wait time ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>等待时间占比</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="318"/>
         <source>Write time ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>写入时间占比</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="327"/>
         <source>Page Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>页面统计</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="331"/>
         <source>Compile Time [msec]</source>
-        <translation type="unfinished"></translation>
+        <translation>编译时间[毫秒]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="332"/>
         <source>Render Time [msec]</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染时间[毫秒]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="333"/>
         <source>Wait Time [msec]</source>
-        <translation type="unfinished"></translation>
+        <translation>等待时间[毫秒]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="334"/>
         <source>Write Time [msec]</source>
-        <translation type="unfinished"></translation>
+        <translation>写入时间[毫秒]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="335"/>
         <source>Total Time [msec]</source>
-        <translation type="unfinished"></translation>
+        <translation>总时间[毫秒]</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="363"/>
         <source>Rendering Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染错误</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="368"/>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="386"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="390"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="394"/>
         <source>Not implemented</source>
-        <translation type="unfinished"></translation>
+        <translation>未实现</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="398"/>
         <source>Not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>未支持</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolrender.cpp" line="402"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolseparate.cpp" line="39"/>
         <source>Extract pages</source>
-        <translation type="unfinished"></translation>
+        <translation>提取页面</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolseparate.cpp" line="42"/>
         <source>Separate document into single page documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>将文档拆分为单页文档。</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolseparate.cpp" line="78"/>
